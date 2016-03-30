@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT step (first,second)>
+<!ELEMENT first (#PCDATA)>
+<!ELEMENT second (#PCDATA)>
+<!ENTITY begin "DOM">

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Teams>
+
+	<Team>
+		<Country>Spanish</Country>
+		<Teamname>Real Madrid</Teamname>
+		<Member Age="30" Sex="Male">Ronaldo</Member>
+	</Team>
+	<Team>
+		<Teamname>AC Milan</Teamname>
+		<Country>USA</Country>
+		<Member Age="32" Sex="Male">Pippo</Member>
+	</Team>
+
+
+</Teams>

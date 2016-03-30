@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE step[
+	<!ELEMENT step (first,second)>
+	<!ELEMENT first (#PCDATA)>
+	<!ELEMENT second (#PCDATA)>
+	<!ENTITY begin "DOM">
+]>
+<step>
+	<first>&begin;</first>
+	<second>SAX</second>
+</step>

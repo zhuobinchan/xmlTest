@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- 这是一个注释 -->
+<team>
+
+	<team_member>
+		<empno value="30772" />
+		<name value="Manjeet singh" />
+		<designation value="Team_leader" />
+		<email value="Manjeet@abc.com" />
+	</team_member>
+</team>

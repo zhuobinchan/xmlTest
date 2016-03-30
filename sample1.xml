@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE step SYSTEM "sample.dtd">
+<step>
+	<first>&begin;</first>
+	<second>SAX</second>
+</step>
